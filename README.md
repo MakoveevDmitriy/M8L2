@@ -26,5 +26,4 @@
 - [Снимок](https://github.com/MakoveevDmitriy/M8L2/assets/131581608/491c5d22-f42e-406f-ab33-8a1762e713c6)
 - [Снимок](https://github.com/MakoveevDmitriy/M8L2/assets/131581608/314d5a56-8ba3-4b4d-a871-a136ac1b349d)
 
-
-                                                                                        Создал Маковеев Дима
+                                              Создал Маковеев Дима
